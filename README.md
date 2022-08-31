@@ -1,5 +1,5 @@
 ### Hello 👋
 
 I am a blockchain developer.
+I am enthusiastic full-stack engineer eager to contribute to team success through hard work, attention to detail and excellent organizational skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peter-sun-dev&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
